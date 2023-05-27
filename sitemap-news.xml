@@ -10,7 +10,7 @@
 <channel>
 	<title>Instant News Portal</title>
 	<atom:link href="http://www.isis.poly.edu/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/testweb</link>
+	<link>http://www.isis.poly.edu</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 May 2023 17:49:55 +0000</lastBuildDate>
 	<language>en-US</language>
