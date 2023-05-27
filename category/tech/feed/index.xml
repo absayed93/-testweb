@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tech &#8211; Instant News Portal</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Sat, 27 May 2023 02:36:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Explaining Blockchain Capital&#8217;s Big Bet on Eyeball-Scanning Rooms</title>
+		<link>./../../../explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/index.html</link>
+					<comments>./../../../explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 27 May 2023 01:58:30 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<guid isPermaLink="false">http://localhost/gitweb/?p=31</guid>
+
+					<description><![CDATA[This week, WorldCoin, an outfit that aims to serve as proof of personality in a world where it&#8217;s increasingly difficult to distinguish a human from a bot, raised $115 million in Series C funding. Led by 10-year-old venture firm Blockchain Capital, whose bets include Coinbase, Kraken and OpenC, the investment brings WorldCoin&#8217;s funding to at]]></description>
+										<content:encoded><![CDATA[<p>
+				This week, WorldCoin, an outfit that aims to serve as proof of personality in a world where it&#8217;s increasingly difficult to distinguish a human from a bot, raised $115 million in Series C funding.  Led by 10-year-old venture firm Blockchain Capital, whose bets include Coinbase, Kraken and OpenC, the investment brings WorldCoin&#8217;s funding to at least $240 million, even as the controversial company — founded in 2019 by OpenAI CEO Sam Altman — has a lot to prove.  Yesterday, we spoke with Blockchain Capital General Partner Spencer Bogart about what gave him confidence in WorldCoin, which aims to create a global ID, a global currency and an app that enables payments, purchases and transfers.  Like many others, we wondered how it could achieve its goals when, at least for now, its mission rests first and foremost on convincing billions of people to allow WorldCoin to scan their irises using a futuristic, technology-dense globe.  Below is part of that conversation, edited for length.  You can also listen to longer conversations here.  Your co-investors in this new round include previous backers Andreessen Horowitz, Bain Capital Crypto and Distributed Global.  Have Khosla Ventures or Tiger Global, the previous backers, re-engaged?  They can be part of this financing;  I don&#8217;t believe they are a big part of it.  How many companies do investors own?  I guess it&#8217;s difficult to negotiate with Sam Altman because of the power he has and his extensive experience on the other side of the table as an investor.  This is an accurate characterization.  Sam is a strong founder and knows how to run a cap table.  Again, I apologize.  It is not a statistic in front of me right now.  Generally, companies sell 20% [equity] In every financing.  Well, things can go significantly down or up from there.  I think in this case, the number is going to be meaningfully lower than Series A, Series B and Series C.  How long have you been talking to WorldCoin and what inspired you to lead this deal?  Sam wondered if the real genesis was: What if I could create a cryptocurrency that I could distribute to everyone in the world and everyone gets an equal share of it?  For me, from an entrepreneurial perspective, it&#8217;s definitely interesting [though] I don&#8217;t know that it&#8217;s something that we would be very excited to go and underwrite based on the things that our team is generally interested in.<br />
+[Meanwhile] This essentially requires ensuring that no one person accumulates a disproportionate share of it, which requires people to be able to identify unique people.  And this really gets into the part that we&#8217;re excited about, which is the world ID.  It is this ability to easily distinguish between machines and humans on the Internet [because] Most of the Internet is supported by advertising revenue and it costs just as much to serve bot traffic as it does to serve human traffic.  This is why various applications and service providers have used captcha to differentiate between bots and humans.  But in the world of advanced automated systems and especially things powered by AI, this is no longer the case.  It doesn&#8217;t even distinguish between unique humans, so I don&#8217;t know if the same person is coming to receive an additional asset, which leads us to: OK, how can we provide a way to distinguish between humans and bots and ensure that every human Unique?  Which leads to biometrics.  Biometrics are at the core of what defines humans, and my first thought was: Why build this custom hardware to scan the eyeball?  As such, billions of people are already walking around with an iPhone.  Why don&#8217;t we use Face ID, right?  The problem is that human facial structures do not have enough randomness, or entropy, to differentiate between unique people, at the scale of tens of thousands or hundreds of thousands of people.  I didn&#8217;t realize that was the case.  This is not something that has happened to me either.  I didn&#8217;t think about the fact that once you get past a hundred million people, there&#8217;s going to be a lot of people who look like Spencer Bogart;  Their facial structure is not sufficiently distinguishable from mine.  Fingerprints have the same problem;  Fingerprints do not have enough randomness.  This leads us to two viable options, DNA that has enough randomness to be able to prove human uniqueness on the scale of billions of people.  But you are providing too much information with DNA.  Then there are irises.  It turns out that the human iris has an insane amount of entropy and randomness.  And in this case, the team has built an insane amount of protection.  You get an iris scan, it doesn&#8217;t save your iris by default.  It is immediately deleted on the device.  It is only used to generate an iris code, which is a unique mapping or encoding of your iris.  And it is compared with all others.  And now, with these iris codes, we don&#8217;t know their names or locations or anything.  All we know about them all is that they are unique people.  I guess an enterprise strategy — helping companies minimize their interactions with bots — is the most lucrative opportunity for WorldCoin right now.  You can also deliver this cryptocurrency to everyone, although it&#8217;s not clear to me how people will use it.  But before any of that can happen, you need to get a meaningful number of people in front of these orbs that are weird and not easily accessible, when people are already worried about biometrics and cryptocurrency.  WorldCoin says it has now scanned 2 million people&#8217;s eyes.  How many are needed for this to be meaningful?  Ten million?  This is the right question.  About it: Do you have a network of proven unique people?  And it&#8217;s only going to be interesting for applications and enterprises at a certain scale.  But I think it will depend on the use case.  By the time you get to 10 million unique users, there are already a lot of applications that want to use it, others won&#8217;t be interested in using it unless you&#8217;re on a network of 500 million or a billion or 2.  Billions of people.  Some of the other challenges here are yes, obviously, room distribution.  Currently there are 200 to 300 [orbs] In the wild today, with more than 2,000 that have been produced and are waiting to be deployed.  Then there is this question of public perception.  Something we flagged as part of the investment is: Is there going to be such a negative perception of it that no matter how confident we are that it&#8217;s 100% sustainable, is the public perception going to be so negative that people won&#8217;t want to participate?  So far, the data says otherwise.  WorldCoin has already onboarded nearly 2 million people by operating a pretty capital-intensive boots-on-the-ground strategy, and it&#8217;s only in beta testing.  This is without pushing or pulling any levers of marketing;  This protocol is even without mainnet live.  This is only in preliminary testing.  As for some of the things it could be used for, Elon Musk talked a lot about a bot problem on Twitter, and if we could pay everyone $8 a month, it would help solve the bot problem.  We think that World ID is a low-friction way of solving the same problem and will be a high-fidelity solution.  And there are many new applications and services that historically did not exist because of our inability to make this distinction  What they are, I don&#8217;t know, but we are interested in financing them.  Again, you can hear more about the investment here, including why OpenAI itself could one day become a major customer of Worldcoin, why Bogart wasn&#8217;t bothered when hackers recently installed password-stealing malware on the devices of multiple Worldcoin orb operators, and why he flash trades on the blockchain. Fascinated by<br />
+<br /><a href="https://techcrunch.com/2023/05/26/explaining-blockchain-capitals-big-bet-on-an-eyeball-scanning-orb/">Source link </a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TikTok is testing an AI chatbot for content discovery</title>
+		<link>./../../../tiktok-is-testing-an-ai-chatbot-for-content-discovery/index.html</link>
+					<comments>./../../../tiktok-is-testing-an-ai-chatbot-for-content-discovery/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 25 May 2023 18:59:25 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<guid isPermaLink="false">http://localhost/gitweb/?p=13</guid>
+
+					<description><![CDATA[TikTok may soon get a new way for users to discover content. The company is in the &#8220;early stages&#8221; of testing an AI-powered chatbot called Taco, which will be able to recommend videos and answer questions about what users are watching. The bot, which was first reported by TechCrunch, is currently being tested in the]]></description>
+										<content:encoded><![CDATA[<p>TikTok may soon get a new way for users to discover content.  The company is in the &#8220;early stages&#8221; of testing an AI-powered chatbot called Taco, which will be able to recommend videos and answer questions about what users are watching.  The bot, which was first reported by TechCrunch, is currently being tested in the Philippines, TikTok said in a statement.  &#8220;Tako is powered by a third-party chat assistant and designed to help make it easier to discover entertaining and inspiring content on TikTok,&#8221; the company said.  Despite being in the early stages of testing, TikTok is apparently featuring tacos fairly prominently in the app.  A shortcut for Assistant sits in the right-hand menu alongside a shortcut to bookmarks, according to TechCrunch, which took a peek at the feature.  This is similar to the prominence Snap has given to its chatbot My AI in its app, pushing it to the top of user chats.  But unlike My AI, TikTok seems to be positioning Tako as a way to discover new content and learn more about what&#8217;s being discussed in clips.  Users should &#8220;feel free to ask me anything and I&#8217;ll do my best to help you find what you&#8217;re looking for,&#8221; the bot says in a screenshot of the chat interface.  Tako isn&#8217;t the only way TikTok is experimenting with generative AI.  The company is also testing AI-generated avatars, but has not announced plans for a wider rollout.  But it&#8217;s not clear for now how serious TikTok is about the technology.  In its statement, the company said Taco &#8220;has no current plans for this beyond these initial tests&#8221;.</p>
+<p><a href="https://www.engadget.com/tiktok-is-testing-an-ai-chatbot-for-content-discovery-182119161.html?src=rss">Source link </a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../tiktok-is-testing-an-ai-chatbot-for-content-discovery/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
