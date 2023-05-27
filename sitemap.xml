@@ -8,15 +8,15 @@
 	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 		http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
 	<sitemap>
-		<loc>http://localhost/testweb/sitemap-root.xml</loc>
+		<loc>http://www.isis.poly.edu/sitemap-root.xml</loc>
 		<lastmod>2023-05-27T17:49:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://localhost/testweb/sitemap-posttype-post.2023.xml</loc>
+		<loc>http://www.isis.poly.edu/sitemap-posttype-post.2023.xml</loc>
 		<lastmod>2023-05-27T17:49:55+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://localhost/testweb/sitemap-author.xml</loc>
+		<loc>http://www.isis.poly.edu/sitemap-author.xml</loc>
 		<lastmod>2023-05-27T17:49:55+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
