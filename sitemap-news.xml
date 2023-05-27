@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Instant News Portal</title>
-	<atom:link href="http://localhost/testweb/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.isis.poly.edu/feed/" rel="self" type="application/rss+xml" />
 	<link>http://localhost/testweb</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 May 2023 17:49:55 +0000</lastBuildDate>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>How to join a node in a docker swarm</title>
-		<link>http://localhost/testweb/how-to-join-a-node-in-a-docker-swarm/</link>
-					<comments>http://localhost/testweb/how-to-join-a-node-in-a-docker-swarm/#respond</comments>
+		<link>http://www.isis.poly.edu/how-to-join-a-node-in-a-docker-swarm/</link>
+					<comments>http://www.isis.poly.edu/how-to-join-a-node-in-a-docker-swarm/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 May 2023 17:49:55 +0000</pubDate>
 				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">http://localhost/testweb/?p=37</guid>
+		<guid isPermaLink="false">http://www.isis.poly.edu/?p=37</guid>
 
 					<description><![CDATA[Jack Wallen walks through the steps to join new nodes to a Docker swarm as a worker and manager to help manage larger Docker clusters. Do you have a docker swarm up and running and need to add more nodes to it? You probably remember how getting started with Docker Swarm introduced you to the]]></description>
 										<content:encoded><![CDATA[<p></p>
@@ -35,15 +35,15 @@
 <br /><a href="https://www.techrepublic.com/article/how-to-join-node-docker-swarm/">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/testweb/how-to-join-a-node-in-a-docker-swarm/feed/</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/how-to-join-a-node-in-a-docker-swarm/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Brain implants allow paralyzed people to walk using their thoughts</title>
-		<link>http://localhost/testweb/brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/</link>
-					<comments>http://localhost/testweb/brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/#respond</comments>
+		<link>http://www.isis.poly.edu/brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/</link>
+					<comments>http://www.isis.poly.edu/brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 May 2023 02:35:19 +0000</pubDate>
@@ -55,15 +55,15 @@
 <br /><a href="https://www.nytimes.com/2023/05/24/science/paralysis-brain-implants-ai.html">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/testweb/brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/feed/</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Explaining Blockchain Capital&#8217;s Big Bet on Eyeball-Scanning Rooms</title>
-		<link>http://localhost/testweb/explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/</link>
-					<comments>http://localhost/testweb/explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/#respond</comments>
+		<link>http://www.isis.poly.edu/explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/</link>
+					<comments>http://www.isis.poly.edu/explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 May 2023 01:58:30 +0000</pubDate>
@@ -77,15 +77,15 @@
 <br /><a href="https://techcrunch.com/2023/05/26/explaining-blockchain-capitals-big-bet-on-an-eyeball-scanning-orb/">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/testweb/explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/feed/</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>New research confirms: 20% of adults do not want children</title>
-		<link>http://localhost/testweb/new-research-confirms-20-of-adults-do-not-want-children/</link>
-					<comments>http://localhost/testweb/new-research-confirms-20-of-adults-do-not-want-children/#respond</comments>
+		<link>http://www.isis.poly.edu/new-research-confirms-20-of-adults-do-not-want-children/</link>
+					<comments>http://www.isis.poly.edu/new-research-confirms-20-of-adults-do-not-want-children/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 26 May 2023 00:27:28 +0000</pubDate>
@@ -97,15 +97,15 @@
 <br /><a href="https://scitechdaily.com/new-study-confirms-20-of-adults-dont-want-children/">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/testweb/new-research-confirms-20-of-adults-do-not-want-children/feed/</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/new-research-confirms-20-of-adults-do-not-want-children/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>All screen time matters for eye health &#8211; CNET</title>
-		<link>http://localhost/testweb/all-screen-time-matters-for-eye-health-cnet/</link>
-					<comments>http://localhost/testweb/all-screen-time-matters-for-eye-health-cnet/#respond</comments>
+		<link>http://www.isis.poly.edu/all-screen-time-matters-for-eye-health-cnet/</link>
+					<comments>http://www.isis.poly.edu/all-screen-time-matters-for-eye-health-cnet/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 25 May 2023 18:59:49 +0000</pubDate>
@@ -117,15 +117,15 @@
 <p><a href="https://www.cnet.com/health/personal-care/all-that-screen-time-matters-when-it-comes-to-eye-health/#ftag=CAD590a51e">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/testweb/all-screen-time-matters-for-eye-health-cnet/feed/</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/all-screen-time-matters-for-eye-health-cnet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>TikTok is testing an AI chatbot for content discovery</title>
-		<link>http://localhost/testweb/tiktok-is-testing-an-ai-chatbot-for-content-discovery/</link>
-					<comments>http://localhost/testweb/tiktok-is-testing-an-ai-chatbot-for-content-discovery/#respond</comments>
+		<link>http://www.isis.poly.edu/tiktok-is-testing-an-ai-chatbot-for-content-discovery/</link>
+					<comments>http://www.isis.poly.edu/tiktok-is-testing-an-ai-chatbot-for-content-discovery/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 25 May 2023 18:59:25 +0000</pubDate>
@@ -137,7 +137,7 @@
 <p><a href="https://www.engadget.com/tiktok-is-testing-an-ai-chatbot-for-content-discovery-182119161.html?src=rss">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/testweb/tiktok-is-testing-an-ai-chatbot-for-content-discovery/feed/</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/tiktok-is-testing-an-ai-chatbot-for-content-discovery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
