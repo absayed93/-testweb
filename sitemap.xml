@@ -1,0 +1,23 @@
+
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/testweb/wp-content/plugins/xml-sitemap-feed/assets/sitemap.xsl?ver=5.3.3"?>
+<!-- generated-on="2023-05-27T18:09:12+00:00" -->
+<!-- generator="XML Sitemap & Google News for WordPress" -->
+<!-- generator-url="https://status301.net/wordpress-plugins/xml-sitemap-feed/" -->
+<!-- generator-version="5.3.3" -->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+		http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+	<sitemap>
+		<loc>http://localhost/testweb/sitemap-root.xml</loc>
+		<lastmod>2023-05-27T17:49:55+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/testweb/sitemap-posttype-post.2023.xml</loc>
+		<lastmod>2023-05-27T17:49:55+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/testweb/sitemap-author.xml</loc>
+		<lastmod>2023-05-27T17:49:55+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
