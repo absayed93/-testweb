@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Health &#8211; Instant News Portal</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="http://www.isis.poly.edu/category/health/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.isis.poly.edu</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 May 2023 02:36:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Brain implants allow paralyzed people to walk using their thoughts</title>
-		<link>./../../../brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/index.html</link>
-					<comments>./../../../brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/index.html#respond</comments>
+		<link>http://www.isis.poly.edu/brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/</link>
+					<comments>http://www.isis.poly.edu/brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 May 2023 02:35:19 +0000</pubDate>
@@ -34,15 +34,15 @@
 <br /><a href="https://www.nytimes.com/2023/05/24/science/paralysis-brain-implants-ai.html">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/brain-implants-allow-paralyzed-people-to-walk-using-their-thoughts/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>All screen time matters for eye health &#8211; CNET</title>
-		<link>./../../../all-screen-time-matters-for-eye-health-cnet/index.html</link>
-					<comments>./../../../all-screen-time-matters-for-eye-health-cnet/index.html#respond</comments>
+		<link>http://www.isis.poly.edu/all-screen-time-matters-for-eye-health-cnet/</link>
+					<comments>http://www.isis.poly.edu/all-screen-time-matters-for-eye-health-cnet/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 25 May 2023 18:59:49 +0000</pubDate>
@@ -54,7 +54,7 @@
 <p><a href="https://www.cnet.com/health/personal-care/all-that-screen-time-matters-when-it-comes-to-eye-health/#ftag=CAD590a51e">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../all-screen-time-matters-for-eye-health-cnet/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/all-screen-time-matters-for-eye-health-cnet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

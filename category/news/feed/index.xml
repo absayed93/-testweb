@@ -9,10 +9,10 @@
 
 <channel>
 	<title>News &#8211; Instant News Portal</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="http://www.isis.poly.edu/category/news/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.isis.poly.edu</link>
 	<description></description>
-	<lastBuildDate>Fri, 26 May 2023 00:27:28 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 May 2023 17:49:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,9 +20,30 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
+		<title>How to join a node in a docker swarm</title>
+		<link>http://www.isis.poly.edu/how-to-join-a-node-in-a-docker-swarm/</link>
+					<comments>http://www.isis.poly.edu/how-to-join-a-node-in-a-docker-swarm/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 27 May 2023 17:49:55 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">http://www.isis.poly.edu/?p=37</guid>
+
+					<description><![CDATA[Jack Wallen walks through the steps to join new nodes to a Docker swarm as a worker and manager to help manage larger Docker clusters. Do you have a docker swarm up and running and need to add more nodes to it? You probably remember how getting started with Docker Swarm introduced you to the]]></description>
+										<content:encoded><![CDATA[<p></p>
+<p>    Jack Wallen walks through the steps to join new nodes to a Docker swarm as a worker and manager to help manage larger Docker clusters.  Do you have a docker swarm up and running and need to add more nodes to it?  You probably remember how getting started with Docker Swarm introduced you to the join command.  The join token from that command can only be used once, so even if you copy that command to a file, it won&#8217;t work for a new node.  Fortunately, however, Docker developers have made it possible to add new nodes to a swarm at any time.  To do this, you need to have a Docker swarm up and running with at least one controller node and a new node to join.  You can add as many nodes as you need and can do so at any time.  You can join a node as a worker or manager.  The difference is simple: manager nodes elect a leader to manage orchestration tasks, whereas worker nodes receive and execute tasks sent from manager nodes.  Presumably, you&#8217;ll join the node as a worker, but I&#8217;ll show you the commands for both.  First, let&#8217;s join a node as a worker.  Log in to your Docker Swarm controller node and issue the docker swarm join-token worker command.  The output will include the docker swarm join command that you run on the new worker node.  If you want to create a new token, use the rotate option like this: docker swarm join-token &#8211;rotate worker.  Now, if you want to join a node as a manager, the command is docker swarm join-token manager.  To create a new join token, you can use the rotate option in the same way as with the docker swarm join-token &#8211;rotate manager.  Once you run one of those commands on your new node, it will join the swarm as a worker or a manager, and you&#8217;re ready to develop and manage a larger Docker cluster.  Subscribe to TechRepublic&#8217;s How To Make Tech Work on YouTube for Jack Wallen&#8217;s latest technology advice for business professionals.<br />
+<br /><a href="https://www.techrepublic.com/article/how-to-join-node-docker-swarm/">Source link </a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://www.isis.poly.edu/how-to-join-a-node-in-a-docker-swarm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>New research confirms: 20% of adults do not want children</title>
-		<link>./../../../new-research-confirms-20-of-adults-do-not-want-children/index.html</link>
-					<comments>./../../../new-research-confirms-20-of-adults-do-not-want-children/index.html#respond</comments>
+		<link>http://www.isis.poly.edu/new-research-confirms-20-of-adults-do-not-want-children/</link>
+					<comments>http://www.isis.poly.edu/new-research-confirms-20-of-adults-do-not-want-children/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 26 May 2023 00:27:28 +0000</pubDate>
@@ -34,7 +55,7 @@
 <br /><a href="https://scitechdaily.com/new-study-confirms-20-of-adults-dont-want-children/">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../new-research-confirms-20-of-adults-do-not-want-children/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/new-research-confirms-20-of-adults-do-not-want-children/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

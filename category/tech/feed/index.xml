@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tech &#8211; Instant News Portal</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="http://www.isis.poly.edu/category/tech/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.isis.poly.edu</link>
 	<description></description>
 	<lastBuildDate>Sat, 27 May 2023 02:36:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>Explaining Blockchain Capital&#8217;s Big Bet on Eyeball-Scanning Rooms</title>
-		<link>./../../../explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/index.html</link>
-					<comments>./../../../explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/index.html#respond</comments>
+		<link>http://www.isis.poly.edu/explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/</link>
+					<comments>http://www.isis.poly.edu/explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 May 2023 01:58:30 +0000</pubDate>
@@ -36,15 +36,15 @@
 <br /><a href="https://techcrunch.com/2023/05/26/explaining-blockchain-capitals-big-bet-on-an-eyeball-scanning-orb/">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/explaining-blockchain-capitals-big-bet-on-eyeball-scanning-rooms/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>TikTok is testing an AI chatbot for content discovery</title>
-		<link>./../../../tiktok-is-testing-an-ai-chatbot-for-content-discovery/index.html</link>
-					<comments>./../../../tiktok-is-testing-an-ai-chatbot-for-content-discovery/index.html#respond</comments>
+		<link>http://www.isis.poly.edu/tiktok-is-testing-an-ai-chatbot-for-content-discovery/</link>
+					<comments>http://www.isis.poly.edu/tiktok-is-testing-an-ai-chatbot-for-content-discovery/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 25 May 2023 18:59:25 +0000</pubDate>
@@ -56,7 +56,7 @@
 <p><a href="https://www.engadget.com/tiktok-is-testing-an-ai-chatbot-for-content-discovery-182119161.html?src=rss">Source link </a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../tiktok-is-testing-an-ai-chatbot-for-content-discovery/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://www.isis.poly.edu/tiktok-is-testing-an-ai-chatbot-for-content-discovery/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
